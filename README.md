@@ -1,5 +1,30 @@
 # HOME aaronda369.github.io
-# ABOUT	
+# ABOUT	# About Us
+
+Welcome to Aarondas Consilium, where we explore the intersection of technology, design, and construction management. I’m Aaronda, a future graduate of the University of Arkansas at Little Rock, pursuing a Bachelor of Science in Construction Management. My passion for architecture and engineering has led me to specialize in Building Information Modeling (BIM) and Autodesk Revit.
+
+### My Journey
+
+From my first encounter with Revit, I was captivated by its ability to transform complex designs into cohesive, functional structures. As I progressed through my studies, I recognized the vital role that BIM plays in modern construction management. It’s not just a tool; it’s a framework that enhances collaboration, streamlines workflows, and minimizes errors.
+
+### What You'll Find Here
+
+In this blog, I aim to share my knowledge and experiences with Revit and BIM. Whether you’re a fellow student, a construction professional, or simply curious about the field, I hope to provide valuable insights into:
+
+
+- **Project Highlights**: A showcase of my academic and personal projects that highlight the effectiveness of BIM in real-world scenarios.
+-
+
+### Join the Conversation
+
+I believe that collaboration and shared knowledge are crucial for growth in any profession. I encourage you to engage with my posts, share your thoughts, and ask questions. Together, we can navigate the evolving landscape of construction management and embrace the future of our industry.
+
+Thank you for visiting Aarondas Consilium! I’m excited to share this journey with you as I prepare for my future in construction management. 
+
+Feel free to connect with me on social media or drop a comment on any of my posts—I’d love to hear from you!
+
+---
+
 # BLOG ![BIMMID](https://github.com/user-attachments/assets/e9a4fa66-f0c8-486a-9cc0-1da68737b19c) ![BIMMID2](https://github.com/user-attachments/assets/2f4dab9b-0289-4994-a3b7-5d0914009fbf)![BIMMID3](https://github.com/user-attachments/assets/f7ff7833-84d2-4043-8ef6-332b1e1a6ebb)
 
 
