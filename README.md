@@ -1,8 +1,10 @@
 # HOME aaronda369.github.io Welcome to Aarondas Consilium! 
 Exploring the Future of Construction Management
-Welcome to my corner of the web! I’m Aaronda Williams, a future graduate of the University of Arkansas at Little Rock, specializing in Construction Management with a focus on Revit and Building Information Modeling (BIM). This blog is dedicated to sharing insights, displaying current projects, and experiences in the dynamic world of construction and technology. ![image](https://github.com/user-attachments/assets/80f3044d-772f-4964-b531-4ae9d36ee75e)
+Welcome to my corner of the web! I’m Aaronda Williams, a future graduate of the University of Arkansas at Little Rock, specializing in Construction Management with a focus on Revit and Building Information Modeling (BIM). This blog is dedicated to sharing insights, displaying current projects, and experiences in the dynamic world of construction and technology. ![image](https://github.com/user-attachments/assets/80f3044d-772f-4964-b531-4ae9d36ee75e)![BIMMID6](https://github.com/user-attachments/assets/cce30ac4-33cd-4fc4-b3ac-6637d5563ebe)
+
 
 # ABOUT	# About Us
+![BIMMID7](https://github.com/user-attachments/assets/596ba46e-73e6-45f4-a24f-590b41e7eb32)
 
 Welcome to Aarondas Consilium, where we explore the intersection of technology, design, and construction management. I’m Aaronda, a future graduate of the University of Arkansas at Little Rock, pursuing a Bachelor of Science in Construction Management. My passion for architecture and engineering has led me to specialize in Building Information Modeling (BIM) and Autodesk Revit.
 
@@ -28,6 +30,7 @@ Feel free to connect with me on social media or drop a comment on any of my post
 
 ---
 
-# BLOG ![BIMMID](https://github.com/user-attachments/assets/e9a4fa66-f0c8-486a-9cc0-1da68737b19c) ![BIMMID2](https://github.com/user-attachments/assets/2f4dab9b-0289-4994-a3b7-5d0914009fbf)![BIMMID3](https://github.com/user-attachments/assets/f7ff7833-84d2-4043-8ef6-332b1e1a6ebb)
+# BLOG ![BIMMID](https://github.com/user-attachments/assets/e9a4fa66-f0c8-486a-9cc0-1da68737b19c) ![BIMMID2](https://github.com/user-attachments/assets/2f4dab9b-0289-4994-a3b7-5d0914009fbf)![BIMMID3](https://github.com/user-attachments/assets/f7ff7833-84d2-4043-8ef6-332b1e1a6ebb)![BIMMID5](https://github.com/user-attachments/assets/fec3ae0f-9c8d-4428-82af-136d373801ac)
+
 
 
