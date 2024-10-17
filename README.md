@@ -1,6 +1,7 @@
-# HOME aaronda369.github.io Welcome to Aarondas Consilium!
+# HOME aaronda369.github.io Welcome to Aarondas Consilium! 
 Exploring the Future of Construction Management
-Welcome to my corner of the web! I’m Aaronda Williams, a future graduate of the University of Arkansas at Little Rock, specializing in Construction Management with a focus on Revit and Building Information Modeling (BIM). This blog is dedicated to sharing insights, displaying current projects, and experiences in the dynamic world of construction and technology.
+Welcome to my corner of the web! I’m Aaronda Williams, a future graduate of the University of Arkansas at Little Rock, specializing in Construction Management with a focus on Revit and Building Information Modeling (BIM). This blog is dedicated to sharing insights, displaying current projects, and experiences in the dynamic world of construction and technology. ![image](https://github.com/user-attachments/assets/80f3044d-772f-4964-b531-4ae9d36ee75e)
+
 # ABOUT	# About Us
 
 Welcome to Aarondas Consilium, where we explore the intersection of technology, design, and construction management. I’m Aaronda, a future graduate of the University of Arkansas at Little Rock, pursuing a Bachelor of Science in Construction Management. My passion for architecture and engineering has led me to specialize in Building Information Modeling (BIM) and Autodesk Revit.
