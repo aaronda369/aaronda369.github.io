@@ -1,5 +1,6 @@
 # HOME aaronda369.github.io
 # ABOUT	
-# BLOG ![page](https://g[34.pdf](https://github.com/user-attachments/files/17415949/34.pdf)
-![page](https://g[34.pdf](https://github.com/user-attachments/files/17415949/34.pdf)
+# BLOG ![BIMMID](https://github.com/user-attachments/assets/e9a4fa66-f0c8-486a-9cc0-1da68737b19c)
+
+
 
