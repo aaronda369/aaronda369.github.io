@@ -15,8 +15,8 @@ Welcome to my corner of the web! I’m Aaronda Williams, a future graduate of th
 
 # ABOUT	
 About Us
+![BIMMID3 7](https://github.com/user-attachments/assets/a81cdb6f-6863-4b83-b4f7-db29fc65b6bf)
 
-![BIMMID7](https://github.com/user-attachments/assets/596ba46e-73e6-45f4-a24f-590b41e7eb32)
 
 Welcome to Aarondas Consilium, where we explore the intersection of technology, design, and construction management. I’m Aaronda, a future graduate of the University of Arkansas at Little Rock, pursuing a Bachelor of Science in Construction Management. My passion for architecture and engineering has led me to specialize in Building Information Modeling (BIM) and Autodesk Revit.
 
